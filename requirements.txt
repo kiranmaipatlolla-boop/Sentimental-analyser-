@@ -1,0 +1,11 @@
+
+Flask
+pandas
+numpy
+scikit-learn
+scipy
+joblib
+nltk
+matplotlib
+seaborn
+wordcloud
