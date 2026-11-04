@@ -1,0 +1,31 @@
+text,sentiment
+I love this product,positive
+The service is excellent,positive
+This is a wonderful experience,positive
+I am very happy with the purchase,positive
+The quality is amazing,positive
+I really enjoyed this movie,positive
+The application is very useful,positive
+The delivery was fast and good,positive
+I highly recommend this product,positive
+Everything is perfect,positive
+I hate this product,negative
+The service is terrible,negative
+This is a very bad experience,negative
+I am disappointed with the purchase,negative
+The quality is poor,negative
+I did not enjoy this movie,negative
+The application is useless,negative
+The delivery was very late,negative
+I will never recommend this product,negative
+Everything is disappointing,negative
+The product is okay,neutral
+The service is average,neutral
+This is an ordinary experience,neutral
+The quality is acceptable,neutral
+I have mixed feelings,neutral
+The movie was average,neutral
+The application is simple,neutral
+The delivery was normal,neutral
+It is neither good nor bad,neutral
+The product meets basic expectations,neutral

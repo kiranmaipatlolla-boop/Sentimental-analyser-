@@ -1,0 +1,31 @@
+text,sentiment,processed_text
+I love this product,positive,love product
+The service is excellent,positive,servic excel
+This is a wonderful experience,positive,wonder experi
+I am very happy with the purchase,positive,happi purchas
+The quality is amazing,positive,qualiti amaz
+I really enjoyed this movie,positive,realli enjoy movi
+The application is very useful,positive,applic use
+The delivery was fast and good,positive,deliveri fast good
+I highly recommend this product,positive,highli recommend product
+Everything is perfect,positive,everyth perfect
+I hate this product,negative,hate product
+The service is terrible,negative,servic terribl
+This is a very bad experience,negative,bad experi
+I am disappointed with the purchase,negative,disappoint purchas
+The quality is poor,negative,qualiti poor
+I did not enjoy this movie,negative,enjoy movi
+The application is useless,negative,applic useless
+The delivery was very late,negative,deliveri late
+I will never recommend this product,negative,never recommend product
+Everything is disappointing,negative,everyth disappoint
+The product is okay,neutral,product okay
+The service is average,neutral,servic averag
+This is an ordinary experience,neutral,ordinari experi
+The quality is acceptable,neutral,qualiti accept
+I have mixed feelings,neutral,mix feel
+The movie was average,neutral,movi averag
+The application is simple,neutral,applic simpl
+The delivery was normal,neutral,deliveri normal
+It is neither good nor bad,neutral,neither good bad
+The product meets basic expectations,neutral,product meet basic expect
