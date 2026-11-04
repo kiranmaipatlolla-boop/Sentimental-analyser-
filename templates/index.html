@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentiment Analyzer</title>
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <div class="container">
+
+        <h1>😊 Sentiment Analyzer</h1>
+
+        <p class="subtitle">
+            Analyze your review using Machine Learning
+        </p>
+
+        <form method="POST">
+            <textarea
+                name="review"
+                placeholder="Enter your review here..."
+                required>{{ review or '' }}</textarea>
+
+            <button type="submit">Analyze Sentiment</button>
+        </form>
+
+        {% if sentiment %}
+        <div class="result">
+            <h2>Analysis Result</h2>
+            <p>Your Sentiment:</p>
+            <h1 class="{{ sentiment|lower }}">
+                {{ sentiment }}
+            </h1>
+        </div>
+        {% endif %}
+
+        <p class="footer">
+            Developed using Python, Flask and Machine Learning
+        </p>
+
+    </div>
+</body>
+</html>
